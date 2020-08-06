@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## Contribua
 
 1. Fork it (<https://github.com/zorrex82/django_react>)
-2. Cria sua própria brach (`git checkout -b feature/fooBar`)
+2. Cria sua própria branch (`git checkout -b feature/fooBar`)
 3. Faça Commit nas mudanças (`git commit -am 'Add some fooBar'`)
 4. Faça o Push no branch (`git push origin feature/fooBar`)
 5. Crie um novo Pull Request 
